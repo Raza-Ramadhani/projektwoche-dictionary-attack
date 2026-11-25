@@ -1,6 +1,6 @@
 # R.A.Z.A. 2.0 - Kryptoanalyse & Wörterbuch-Angriff Suite
-*Rapid Algorithmic Zone Analyzer*
-Projektwoche Kryptoanalyse
+*Rapid Algorithmic Zone Analyzer* 
+Projektwoche Kryptoanalyse Gym 3
 
 ---
 
