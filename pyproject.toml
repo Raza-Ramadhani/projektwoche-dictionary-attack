@@ -1,0 +1,19 @@
+[project]
+name = "dictionary-attack"
+version = "0.1.0"
+description = "Kryptoanalyse & Wörterbuch-Angriff Suite (R.A.Z.A. 2.0)"
+readme = "README.md"
+authors = [
+    { name = "Raza" },
+    { name = "Merlin999999" }
+]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+dictionary-attack = "dictionary_attack.cli:main"
+raza = "dictionary_attack.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.2,<0.13.0"]
+build-backend = "uv_build"
